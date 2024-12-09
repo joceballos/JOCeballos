@@ -2,7 +2,7 @@
 title: Academic Web Site
 summary: Personal web site built in R Studio.
 tags:
- - Data analysis
+ - Website built in R
 date: '2024-11-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
