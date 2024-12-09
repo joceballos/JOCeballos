@@ -2,15 +2,15 @@
 .idea/
 
 # Hugo
-resources/
-public/
-jsconfig.json
-node_modules/
-go.sum
-.hugo_build.lock
-.Rproj.user
-.Rhistory
-.Rdata
-.httr-oauth
-.DS_Store
-.quarto
+#resources/
+#public/
+#jsconfig.json
+#node_modules/
+#go.sum
+#.hugo_build.lock
+#.Rproj.user
+#.Rhistory
+#.Rdata
+#.httr-oauth
+#.DS_Store
+#.quarto
