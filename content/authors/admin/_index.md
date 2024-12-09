@@ -121,7 +121,7 @@ social:
 highlight_name: true
 ---
 
-I am a doctoral student focused on the numerical simulation of PEM Fuel Cells using OpenFOAM. My research interests include modeling of transport phenomena in fuel cells and data analysis of Perovskite Solar Cells. I also have experience in offshore drill rigs as Roustabout and Field Engineer.
+I am a doctoral student focused on the numerical simulation of PEM Fuel Cells using OpenFOAM. My research interests include modeling of transport phenomena in fuel cells and data analysis of Perovskite Solar Cells.
 {style="text-align: justify;"}
 {{< icon name="download" pack="fas" >}} Download my {{< staticref
 "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
